@@ -1,0 +1,22 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+While working on my final project. I realized how easy it is to make quick changes to functions while not making huge changes to a mass amount of code. What I mean by that is usually when writing code if you want
+a differenct outcome or a different number you have to change lots of the code. With the function I can continue to use with different outcomes just by continuing to call the funtion
+
+
+
+2. In your judgment, what is the value of test functions?
+
+It allows you to continue to make changes and test them out to get the outcome you want by asserting it in the test.
+You can also use it to see how many of your functions are working properly and pin point which ones are not individually. 
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+One of my process has been making sure I go through each step one by one before making more of the code. 
+I need to work more with using the debug feature to go through the steps.
